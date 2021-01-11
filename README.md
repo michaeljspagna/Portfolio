@@ -1,2 +1,2 @@
-# Portfolio
-Website to publish projects and resume
+# michaeljspagna.github.io
+My personal website

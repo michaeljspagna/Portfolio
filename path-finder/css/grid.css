@@ -1,0 +1,69 @@
+html, body {
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden;
+    background-color: #e4e4e4;
+}
+
+.btn-toolbar{
+    padding: 1rem;
+    justify-content: center;
+}
+
+.btn{
+
+    border: 1px solid #666666;
+}
+
+.selected{
+    border: 2px solid #666666;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid #666666;
+    margin: auto;
+}
+
+.grid-cell{
+    height: 30px;
+    width: 30px;
+    margin: auto;
+    border: 1px solid #666666;
+}
+
+.plain{
+    background-color: #ffffff;
+}
+
+.blocked{
+    background-color: #005bbb;
+}
+
+.active{
+    background-color: #e56a54;
+}
+
+.visited{
+    background-color: #ffc72c;
+}
+
+.start{
+    background-color: #00a950;
+}
+
+.end{
+    background-color: #bb0000;
+}
+
+.path1{
+    background-color: #ebec00;
+}
+
+.path2{
+    background-color: #00a69c;
+}
+
+.path3{
+    background-color: #2f9fd0;
+}
